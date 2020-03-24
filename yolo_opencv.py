@@ -4,6 +4,8 @@
 # Website : http://www.arunponnusamy.com
 ############################################
 
+# Adding few comments here
+
 import cv2
 import argparse
 import numpy as np
