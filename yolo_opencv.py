@@ -4,8 +4,6 @@
 # Website : http://www.arunponnusamy.com
 ############################################
 
-# Pushing the code to Github via pull request
-
 import cv2
 import argparse
 import numpy as np
